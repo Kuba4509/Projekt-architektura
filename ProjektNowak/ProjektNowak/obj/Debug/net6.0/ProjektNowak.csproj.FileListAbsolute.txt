@@ -1,0 +1,15 @@
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\bin\Debug\net6.0\ProjektNowak.exe
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\bin\Debug\net6.0\ProjektNowak.deps.json
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\bin\Debug\net6.0\ProjektNowak.runtimeconfig.json
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\bin\Debug\net6.0\ProjektNowak.dll
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\bin\Debug\net6.0\ProjektNowak.pdb
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.csproj.AssemblyReference.cache
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.dll
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\refint\ProjektNowak.dll
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.pdb
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ProjektNowak.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Pulpit\200 kurwa zł\ProjektNowak\ProjektNowak\obj\Debug\net6.0\ref\ProjektNowak.dll
